@@ -1,4 +1,4 @@
-El daño cognitivo es aquello que produce un error en el procesamiento de la información por el 
+El cambio climatico cognitivo es aquello que produce un error en el procesamiento de la información por el 
 cerebro. Este tipo de daño en niños y niñas, puede derivarse de múltiples factores ambientales 
 o biológicos que pueden alterar el orden y organización de procesos mentales como atención, 
 memoria y la capacidad para administrar la información que nos rodea. Existen enfermedades 
@@ -6,3 +6,5 @@ que pueden generar este tipo de cambios en el sistema cognitivo de las personas 
 las cardiopatías congénitas, la epilepsia, el síndrome de Down, el autismo, la obesidad, entre 
 otras. Se han observado cambios bioquímicos o moleculares en relación al daño cognitivo en 
 algunas patologías. 
+
+añadimos datos al repositorio
